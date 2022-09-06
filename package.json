@@ -1,0 +1,20 @@
+{
+  "name": "longestdigitsprefix",
+  "version": "1.0.0",
+  "description": "Given a string, output its longest prefix which contains only digits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/longestDigitsPrefix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/longestDigitsPrefix/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/longestDigitsPrefix#readme"
+}
